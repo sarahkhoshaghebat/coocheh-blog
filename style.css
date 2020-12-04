@@ -20,6 +20,7 @@ header {
 .text {
 	font-family: shabnam;
 	color: #4a4a4a;
+	direction: rtl;
 	
 }
 
@@ -29,6 +30,7 @@ header {
 	margin-left: 8px;
 	margin-right: 3px;
 	font-size: 16px;
+	direction: rtl;
 
 }
 
@@ -40,30 +42,105 @@ header {
 	margin-top: 10px;
 	align-items: center;
 	justify-content: center;
-	position: 
 }
 
 
 
 .card {
 	width: 374px;
-	height: 444px;
+	height: 490px;
 	margin-left: 20px;
     margin-right: 20px;
 	margin-bottom: 40px;
-	
+	align-items: right;
 
 }
 
 
-img ,card {
-	height: 234px;
+.card:hover {
+	background-color: white;
+	color: white;
+	box-shadow: 0px 0px 10px 6px #E6E6FA;
+}
+
+
+.rounded-circle {
+	height: 40px;
+	width: 40px;
+	border:2px solid white;
+	margin-top: 20px;
+	margin-left: 20px;
 }
 
 
 .card-text {
 	font-family: shabnam;
 	color: #4a4a4a;
+	float: right;
+	font-size: 18px;
 	direction: rtl;
 	
+}
+
+
+.text-title {
+	font-family: shabnam;
+	color: #51c5a8;
+	font-size: 14px;
+	float: right;
+	direction: rtl;
+}
+
+.background-img {
+	background-size: cover;
+	height: 234px;
+}
+
+.background-alley {
+	background-image: url(img/alley.jpg);
+}
+
+
+.background-street {
+	background-image: url(img/street.jpeg);
+}
+
+
+.background-azadi {
+	background-image: url(img/azadi.jpg)
+}
+
+
+.background-tree {
+	background-image: url(img/tree.jpg);
+}
+
+
+.background-asp {
+	background-image: url(img/asp.jpg);
+}
+
+
+.background-sepid {
+	background-image: url(img/sepid.jpg);
+}
+
+
+.background-old-street {
+	background-image: url(img/old-street.jpg);
+}
+
+
+.background-walking {
+	background-image: url(img/walking.jpg);
+}
+
+
+.background-square {
+	background-image: url(img/square.jpg);
+}
+
+
+.background-400-dastgah {
+	background-image: url(img/400-dastgah.jpg);
 }
