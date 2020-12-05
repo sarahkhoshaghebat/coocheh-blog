@@ -47,12 +47,12 @@ header {
 
 
 .card {
-	width: 374px;
+	width: 380px;
 	height: 490px;
 	margin-left: 20px;
     margin-right: 20px;
 	margin-bottom: 40px;
-	align-items: right;
+	direction: rtl;
 
 }
 
@@ -77,13 +77,13 @@ header {
 	font-family: shabnam;
 	color: #4a4a4a;
 	float: right;
-	font-size: 18px;
+	font-size: 15px;
 	direction: rtl;
 	
 }
 
 
-.text-title {
+.card-title {
 	font-family: shabnam;
 	color: #51c5a8;
 	font-size: 14px;
@@ -91,56 +91,8 @@ header {
 	direction: rtl;
 }
 
+
 .background-img {
 	background-size: cover;
 	height: 234px;
-}
-
-.background-alley {
-	background-image: url(img/alley.jpg);
-}
-
-
-.background-street {
-	background-image: url(img/street.jpeg);
-}
-
-
-.background-azadi {
-	background-image: url(img/azadi.jpg)
-}
-
-
-.background-tree {
-	background-image: url(img/tree.jpg);
-}
-
-
-.background-asp {
-	background-image: url(img/asp.jpg);
-}
-
-
-.background-sepid {
-	background-image: url(img/sepid.jpg);
-}
-
-
-.background-old-street {
-	background-image: url(img/old-street.jpg);
-}
-
-
-.background-walking {
-	background-image: url(img/walking.jpg);
-}
-
-
-.background-square {
-	background-image: url(img/square.jpg);
-}
-
-
-.background-400-dastgah {
-	background-image: url(img/400-dastgah.jpg);
 }
