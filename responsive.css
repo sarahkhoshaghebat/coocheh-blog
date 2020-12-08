@@ -1,0 +1,6 @@
+@media(max-width: 767px) {
+    .background {
+        background-position: center 100px;
+        height: 99/5%;
+    }
+}
