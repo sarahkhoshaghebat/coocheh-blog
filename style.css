@@ -63,7 +63,6 @@ header {
 	background-color: white;
 	color: white;
 	box-shadow: 0px 0px 10px 6px #E6E6FA;
-	text-decoration: none;
 }
 
 
@@ -82,8 +81,6 @@ header {
 	color: #4a4a4a;
 	float: right;
 	font-size: 15px;
-	direction: rtl;
-	
 }
 
 
@@ -91,8 +88,6 @@ header {
 	font-family: shabnam;
 	color: #51c5a8;
 	font-size: 14px;
-	float: right;
-	direction: rtl;
 }
 
 
@@ -104,4 +99,10 @@ header {
 
 .card-img-top {
 	height: 234px;
+}
+
+
+.background-footer {
+	background-color: #293951;
+	height: 280px;
 }
