@@ -106,3 +106,18 @@ header {
 	background-color: #293951;
 	height: 280px;
 }
+
+
+.inputSearch {
+	margin-top: 150px;
+	width: 400px;
+	height: 53px;
+	font-family: shabnam;
+	text-align: start;
+}
+
+
+.input-group-text {
+	margin-top: 150px;
+	width: 44px;
+}
