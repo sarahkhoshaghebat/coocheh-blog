@@ -1,0 +1,20 @@
+@font-face {
+	font-family: shabnam;
+}
+
+
+
+.backgroundStreets {
+	background-image: url(img/street.jpeg);
+	background-size: cover;
+	height: 550px;
+	background-repeat: no-repeat;
+	
+}
+
+
+
+.textBoldPage {
+    font-family: shabnam;
+    
+}
