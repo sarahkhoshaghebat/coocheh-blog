@@ -161,3 +161,27 @@ header {
 }
 
 
+.backgroundStreets {
+	background-image: url(img/street.jpeg);
+	background-size: cover;
+	height: 550px;
+	background-repeat: no-repeat;
+	
+}
+
+
+.textPadding {
+	padding-left: 110px;
+	padding-right: 110px;
+}
+
+
+.textBoldPage {
+    font-family: shabnam;
+}
+
+
+.imgTopkhone, .sardarBaqemeli, .squareHasanabad {
+	width: 880px;
+	height: 510px;
+}
