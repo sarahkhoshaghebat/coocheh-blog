@@ -181,7 +181,26 @@ header {
 }
 
 
-.imgTopkhone, .sardarBaqemeli, .squareHasanabad, .rahAhanSquare, .taatrShahr, .baqFerdos, .lalehZar, .grandHotel, .lalehzarLamp, .naserKhoasro, .shamsol {
-	width: 880px;
-	height: 510px;
+.imgPage {
+	width: 910px;
+	height: 530px;
+}
+
+
+.socialPage {
+	margin-top: 60px;
+	top: 30vh;
+	left: 300px;
+	position: fixed;
+	float: left;
+}
+
+
+.topPage, .telegramPage, .twitterPage, .facebookPage {
+	border: 1px solid white;
+	background-color: white;
+	width: 36px;
+	height: 36px;
+	position: relative;
+	color: #4a4a4a;
 }
